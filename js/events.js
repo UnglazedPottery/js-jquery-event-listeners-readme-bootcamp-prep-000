@@ -1,5 +1,5 @@
 function getIt(){
-  $('img').click('load', function(){
+  $('p').click('load', function(){
   //actions you want to happen
 });
 }
