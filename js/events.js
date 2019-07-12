@@ -1,7 +1,7 @@
 function getIt(){
-  $('p').click('load', function(){
-  //actions you want to happen
-});
+  $('p').click(function() {
+  alert( "Hey!" );
+  });
 }
 
 function frameIt(){}
