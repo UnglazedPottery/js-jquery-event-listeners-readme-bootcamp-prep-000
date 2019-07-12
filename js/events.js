@@ -1,10 +1,10 @@
 function getIt(){
-  $('p').click(function() {
-  alert( "Hey!" );
-  });
+  return $('p').click(function() {alert( "Hey!" );});
 }
 
-function frameIt(){}
+function frameIt(){
+  
+}
 
 function pressIt(){}
 
