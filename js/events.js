@@ -1,5 +1,5 @@
 function getIt(){
-  return $('p').click(function() {alert( "Hey!" );});
+  $('p').click(function() {alert( "Hey!" );});
 }
 
 function frameIt(){
